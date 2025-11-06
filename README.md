@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I am a Frontend Web Developer, a content writer and an Deep Learning Enthusiast.<br>I am a Third Year Computer Engineer student at PICT Pune.</p>
+<p align="center">I am a Frontend Web Developer, a content writer and an Deep Learning Enthusiast.<br>I am a Computer Engineering student at PICT Pune.</p>
 
 ###
 
